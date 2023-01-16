@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MatheusW166/karatsuba-algorithm/blob/main/LICENCE)
+
 # Implementação do Algoritmo de Karatsuba
 Implementação na linguagem C do Algoritmo de Karatsuba, feita durante trabalho semestral na universidade. O algoritmo funciona recebendo números em forma de texto (char), e realiza divisões suscessivas até atingir dígitos menores para então multiplicá-los. Dessa forma, é possível realizar operaçẽos de multiplicação com valores extremamente grandes, que não poderiam ser armazenados em variáveis de tipo numérico.
 
