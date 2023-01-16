@@ -8,12 +8,18 @@ Implementação na linguagem C do Algoritmo de Karatsuba, feita durante trabalho
 - gcc ou g++
 
 ### Instruções
-- Clone o repositório utilizando o comando: `git clone https://github.com/MatheusW166/karatsuba-algorithm.git`
-- No mesmo local do arquivo, compile o código com o comando: `gcc karatsuba.c -o exe -lm`
-- Execução
-    - No Windows, digite `exe.exe`
-    - No Linux, digite `./exe`
-- Pelo terminal, informe os valores desejados.
+- Clonando repositório
+```bash
+$ git clone https://github.com/MatheusW166/karatsuba-algorithm.git
+```
+- Compilando o programa 
+```bash
+$ gcc karatsuba.c -o exe -lm
+```
+- Executando
+```bash
+$ ./exe
+```
 
 ## Teoria
 ### O algoritmo
